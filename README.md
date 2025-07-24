@@ -1,2 +1,7 @@
-# Projet-stat
-Projet final en statistique pour l'analyse de données
+Scénario du projet : Vous êtes Data Scientist au sein d'une agence de logement à Boston MA. On vous a donné accès à un ensemble de données antérieures sur les prix des logements dérivées du service de recensement américain afin de présenter des idées à la direction. Sur la base de votre expérience en statistiques, quelles informations pouvez-vous leur fournir pour les aider à prendre une décision éclairée ? Les cadres supérieurs aimeraient obtenir des informations sur les points suivants.
+•	Existe-t-il une différence significative dans la valeur médiane des maisons bordées par la rivière Charles ou non ?
+•	Existe-t-il une différence entre les valeurs médianes des maisons de chaque proportion de logements occupés par leur propriétaire et construits avant 1940 ?
+•	Peut-on conclure qu'il n'y a pas de relation entre les concentrations d'oxyde nitrique et la proportion d'hectares de commerces autres que de détail par ville ?
+•	Quel est l'impact d'une distance pondérée supplémentaire par rapport aux cinq centres d'emploi de Boston sur la valeur médiane des maisons occupées par leur propriétaire ?
+À l'aide des graphiques et diagrammes appropriés, générez des statistiques de base et des visualisations qui, selon vous, seront utiles à la direction générale pour lui donner un aperçu important de la question qu'elle se pose ; dans vos graphiques, incluez une explication de chaque statistique. 
+
